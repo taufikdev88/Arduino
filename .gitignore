@@ -26,3 +26,5 @@
 !hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR/**
 !hardware/Arduino_STM32/STM32F1/libraries/Wire/
 !hardware/Arduino_STM32/STM32F1/libraries/Wire/**
+!hardware/Arduino_STM32/STM32F1/libraries/SPI/
+!hardware/Arduino_STM32/STM32F1/libraries/SPI/**

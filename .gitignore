@@ -6,6 +6,8 @@
 !libraries/Adafruit_BusIO/**
 !libraries/Adafruit_GFX_Library/
 !libraries/Adafruit_GFX_Library/**
+!libraries/Adafruit_PWM_Servo_Driver/
+!libraries/Adafruit_PWM_Servo_Driver/**
 !hardware/
 !hardware/Arduino_STM32/
 !hardware/Arduino_STM32/drivers/

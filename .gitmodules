@@ -1,0 +1,3 @@
+[submodule "hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR"]
+  path = hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR
+  url = https://github.com/taufikdev88/MazeSolvingGR.git

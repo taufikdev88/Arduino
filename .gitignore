@@ -8,6 +8,8 @@
 !libraries/Adafruit_GFX_Library/**
 !libraries/Adafruit_PWM_Servo_Driver/
 !libraries/Adafruit_PWM_Servo_Driver/**
+!libraries/GyverOLED/
+!libraries/GyverOLED/**
 !hardware/
 !hardware/Arduino_STM32/
 !hardware/Arduino_STM32/drivers/
@@ -22,8 +24,6 @@
 !hardware/Arduino_STM32/STM32F1/libraries/
 !hardware/Arduino_STM32/STM32F1/libraries/Adafruit_GFX_AS/
 !hardware/Arduino_STM32/STM32F1/libraries/Adafruit_GFX_AS/**
-!hardware/Arduino_STM32/STM32F1/libraries/Adafruit_SSD1306/
-!hardware/Arduino_STM32/STM32F1/libraries/Adafruit_SSD1306/**
 !hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR/
 !hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR/**
 !hardware/Arduino_STM32/STM32F1/libraries/Wire/

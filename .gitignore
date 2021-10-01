@@ -22,8 +22,6 @@
 !hardware/Arduino_STM32/STM32F1/system/**
 !hardware/Arduino_STM32/STM32F1/variants/**
 !hardware/Arduino_STM32/STM32F1/libraries/
-!hardware/Arduino_STM32/STM32F1/libraries/Adafruit_GFX_AS/
-!hardware/Arduino_STM32/STM32F1/libraries/Adafruit_GFX_AS/**
 !hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR/
 !hardware/Arduino_STM32/STM32F1/libraries/MazeSolvingGR/**
 !hardware/Arduino_STM32/STM32F1/libraries/Wire/

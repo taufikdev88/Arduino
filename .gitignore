@@ -8,6 +8,8 @@
 !libraries/Adafruit_GFX_Library/**
 !libraries/Adafruit_PWM_Servo_Driver/
 !libraries/Adafruit_PWM_Servo_Driver/**
+!libraries/EspSoftwareSerial/
+!libraries/EspSoftwareSerial/**
 !libraries/GyverOLED/
 !libraries/GyverOLED/**
 !hardware/
